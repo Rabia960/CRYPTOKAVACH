@@ -1,5 +1,5 @@
 """
-CryptoWatch Dummy Blockchain Transaction API
+CryptoWatch Blockchain Transaction API
 Simulates live blockchain data for BTC, ETH, USDT, LTC, XMR, DOGE, BNB
 """
 
